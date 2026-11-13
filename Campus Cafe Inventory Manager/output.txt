@@ -1,0 +1,248 @@
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: abc
+Please enter a whole number: 2
+No products to display.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+No products, total stock value is 0.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+No products, cannot calculate an average.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Samosa
+Price: 15
+Quantity: 20
+Product added.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Tea
+Price: 10.5
+Quantity: 5
+Product added.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Cake
+Price: -5
+Quantity: 3
+Error: price must be above 0 and quantity cannot be negative.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Juice
+Price: 20
+Quantity: -2
+Error: price must be above 0 and quantity cannot be negative.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: 
+Price: 12
+Quantity: 4
+Error: name cannot be empty.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1. Samosa | Rs 15.0 | qty 20
+2. Tea | Rs 10.5 | qty 5
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value: Rs 352.5
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price: Rs 12.75
+Rounded down: Rs 12
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 2
+Quantity to add: 10
+Tea now has qty 15.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 7
+Quantity to add: 3
+Error: there is no product number 7.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 1
+Quantity to add: 0
+Error: quantity to add must be above 0.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 1
+Added Samosa (copy).
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 9
+Error: there is no product number 9.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 9
+Invalid choice, try again.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1. Samosa | Rs 15.0 | qty 20
+2. Tea | Rs 10.5 | qty 15
+3. Samosa (copy) | Rs 15.0 | qty 20
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value: Rs 757.5
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 0
+Goodbye!
+Products created in total: 3
